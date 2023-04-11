@@ -30,7 +30,6 @@ public class HelloApplication extends Application {
         stage.show();
     }
      */
-    //hi
     public void start(Stage primaryStage) {
         System.out.println("Program started!");
         primaryStage.setTitle("Button thingy");
